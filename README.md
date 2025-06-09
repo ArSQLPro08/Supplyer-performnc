@@ -26,6 +26,9 @@ Risk mitigation by identifying underperforming vendors
 
 Continuous improvement through benchmarking and historical performance trends
 
+
+![Screenshot_4](https://github.com/user-attachments/assets/a263f658-6670-43a5-a685-1061380c94c8)
+
 ![suplly chain performnce](https://github.com/user-attachments/assets/deac4085-af50-4acd-b482-96cf5faa59bc)
 
 
